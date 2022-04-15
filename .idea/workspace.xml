@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dfc68921-f6ef-4b43-a0c2-d3ee1c4de48e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/intervention/image" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/phpmailer/phpmailer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/beberlei/assert" />
+      <path value="$PROJECT_DIR$/vendor/morilog/jalali" />
+      <path value="$PROJECT_DIR$/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="24EmtX70EjOxDxz5SWNX8k4FHri" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../xampp3/htdocs/admin-panel" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\PHP\Laravel_4.5.2021\mvc-project\resources\view\app" />
+      <recent name="E:\PHP\Laravel_4.5.2021\mvc-project\resources\view\app\layouts" />
+      <recent name="E:\PHP\Laravel_4.5.2021\mvc-project\public\js" />
+      <recent name="E:\PHP\Laravel_4.5.2021\mvc-project\app\Http\Requests\Auth" />
+      <recent name="E:\PHP\Laravel_4.5.2021\mvc-project\resources\view\admin\layouts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\PHP\Laravel_4.5.2021\mvc-project\system" />
+      <recent name="E:\PHP\Laravel_4.5.2021\mvc-project\app\Http" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dfc68921-f6ef-4b43-a0c2-d3ee1c4de48e" name="Default Changelist" comment="" />
+      <created>1643204336389</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1643204336389</updated>
+      <workItem from="1643204337463" duration="17572000" />
+      <workItem from="1643271412585" duration="20245000" />
+      <workItem from="1643354386404" duration="24362000" />
+      <workItem from="1643448247692" duration="12616000" />
+      <workItem from="1643526403108" duration="29947000" />
+      <workItem from="1643702099782" duration="13520000" />
+      <workItem from="1643789000201" duration="2892000" />
+      <workItem from="1643879927188" duration="96000" />
+      <workItem from="1643880031475" duration="1135000" />
+      <workItem from="1643912778187" duration="4308000" />
+      <workItem from="1643959717680" duration="21378000" />
+      <workItem from="1644048179015" duration="154000" />
+      <workItem from="1644048357412" duration="10477000" />
+      <workItem from="1644131384637" duration="6165000" />
+      <workItem from="1644138452123" duration="2844000" />
+      <workItem from="1644224130540" duration="7622000" />
+      <workItem from="1644303877469" duration="12099000" />
+      <workItem from="1644391850819" duration="20214000" />
+      <workItem from="1644477961901" duration="15760000" />
+      <workItem from="1644558852449" duration="31947000" />
+      <workItem from="1644738813228" duration="14365000" />
+      <workItem from="1644823259111" duration="3841000" />
+      <workItem from="1644834377805" duration="2721000" />
+      <workItem from="1644861901311" duration="24000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="484" y="97" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1644563529855">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="484" y="97" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.680@0.0.1280.680" timestamp="1644563529855" />
+    <state x="372" y="98" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1644524740308">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="372" y="98" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1280.680@0.0.1280.680" timestamp="1644524740308" />
+    <state x="422" y="98" key="FileChooserDialogImpl" timestamp="1644861922168">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="422" y="98" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1644861922168" />
+    <state x="114" y="112" key="NewPhpClassDialog" timestamp="1644765254925">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="114" y="112" key="NewPhpClassDialog/0.0.1280.680@0.0.1280.680" timestamp="1644765254925" />
+    <state x="476" y="272" key="NewPhpFileDialog" timestamp="1644780523389">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="476" y="272" key="NewPhpFileDialog/0.0.1280.680@0.0.1280.680" timestamp="1644780523389" />
+    <state x="152" y="0" key="SettingsEditor" timestamp="1643962330038">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="152" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1643962330038" />
+    <state x="470" y="118" key="refactoring.ChangeSignatureDialog" timestamp="1643373554170">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="470" y="118" key="refactoring.ChangeSignatureDialog/0.0.1280.680@0.0.1280.680" timestamp="1643373554170" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1644834686295">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1644834686295" />
+  </component>
+</project>
